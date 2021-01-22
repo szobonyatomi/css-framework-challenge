@@ -8,6 +8,6 @@ maybe something......... [click](https://szobonyatomi.github.io/css-framework-ch
 * some features:
 	* sticky menu with positioned anchors (menus are working;)
 	* some easter eggs (check the buttons;)
-
+	* not responsive (yet ;)
 
 
